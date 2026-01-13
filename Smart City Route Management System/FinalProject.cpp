@@ -1,5 +1,3 @@
-// Name: Tshepo Manyisa
-// Student Number: 68447353
 
 #include <iostream>
 #include <vector>
@@ -919,7 +917,6 @@ int main() {
 
 /*
 === FINAL PROJECT DOCUMENTATION ===
-Student Number: 68447353
 Module: COS2611 C++ Programming: Data Structures
 
 PROBLEM ANALYSIS:
@@ -1083,3 +1080,4 @@ showed me that building something powerful is only half the job; making it under
 is just as important, especially for systems that affect people's daily lives like
 transportation routing.
 */
+
