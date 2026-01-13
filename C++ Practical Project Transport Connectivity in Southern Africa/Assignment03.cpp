@@ -1,7 +1,4 @@
 
-//Name: Tshepo Manyisa
-// Student Number: 68447353
-
 #include <iostream>
 #include <vector>
 #include <string>
@@ -697,3 +694,4 @@ int main() {
     // Clean program termination
     return 0;
 }
+
