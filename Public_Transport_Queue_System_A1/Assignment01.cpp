@@ -1,5 +1,4 @@
-// Name: Tshepo Manyisa
-// Student Number: 68447353
+
 
 #include <iostream>
 #include <sstream>
@@ -248,3 +247,4 @@ int main() {
     }
     return 0;
 }
+
